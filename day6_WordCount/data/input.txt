@@ -1,0 +1,5 @@
+Apache Spark is fast
+Spark is powerful
+Scala and Spark are popular
+Spark supports big data processing
+Scala is used with Spark
