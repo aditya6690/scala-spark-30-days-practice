@@ -1,0 +1,12 @@
+INFO Application started
+INFO User login successful
+ERROR Database connection failed
+INFO User login successful
+WARN High memory usage
+INFO Payment processed
+ERROR Payment failed
+INFO User logout
+INFO User login successful
+WARN High memory usage
+ERROR Database connection failed
+INFO Application stopped

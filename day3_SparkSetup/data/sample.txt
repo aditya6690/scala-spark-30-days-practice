@@ -1,0 +1,4 @@
+Apache Spark is a distributed data processing framework.
+Spark can process large datasets efficiently.
+Scala is commonly used to write Spark applications.
+Spark applications can run in local mode during development.
