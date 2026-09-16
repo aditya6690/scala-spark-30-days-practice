@@ -1,0 +1,5 @@
+spark scala
+spark rdd
+scala spark
+fault tolerance
+spark lineage
