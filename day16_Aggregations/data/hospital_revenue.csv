@@ -1,0 +1,13 @@
+department,doctor,revenue,patients
+Cardiology,Dr. Sharma,150000,30
+Cardiology,Dr. Mehta,120000,25
+Cardiology,Dr. Rao,90000,20
+Neurology,Dr. Singh,110000,22
+Neurology,Dr. Patel,95000,18
+Neurology,Dr. Kumar,85000,16
+Orthopedics,Dr. Verma,100000,24
+Orthopedics,Dr. Das,80000,20
+Orthopedics,Dr. Reddy,70000,15
+Pediatrics,Dr. Gupta,60000,20
+Pediatrics,Dr. Nair,50000,17
+Pediatrics,Dr. Khan,45000,14

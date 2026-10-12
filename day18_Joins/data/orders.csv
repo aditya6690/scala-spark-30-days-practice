@@ -1,0 +1,7 @@
+
+order_id,customer_id,product,amount
+O501,C101,Laptop,65000
+O502,C102,Phone,25000
+O503,C101,Mouse,1200
+O504,C104,Monitor,12000
+O505,C105,Keyboard,2500

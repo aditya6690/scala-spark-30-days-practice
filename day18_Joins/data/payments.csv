@@ -1,0 +1,6 @@
+
+payment_id,order_id,payment_amount,payment_status
+P901,O501,65000,PAID
+P902,O502,25000,PAID
+P903,O503,1200,PENDING
+P904,O506,7000,PAID

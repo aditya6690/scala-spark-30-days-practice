@@ -1,0 +1,11 @@
+employee_id,name,department,salary,bonus
+E001,Aditya,Engineering,60000,8000
+E002,Rahul,Engineering,55000,6000
+E003,Priya,HR,48000,5000
+E004,Neha,Finance,70000,9000
+E005,Arjun,Engineering,65000,7500
+E006,Ananya,HR,52000,5500
+E007,Rohan,Finance,62000,7000
+E008,Sneha,Sales,45000,6000
+E009,Vikram,Sales,50000,6500
+E010,Kavya,Engineering,58000,7000
